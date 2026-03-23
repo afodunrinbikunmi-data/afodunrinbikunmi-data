@@ -1,4 +1,4 @@
-# Hi, I'm Akinkunmi 👋
+# Hi, I'm Afodunrinbi Samad Akinkunmi 👋
 
 📊 I'm a Data Analyst passionate about turning data into insights
 
