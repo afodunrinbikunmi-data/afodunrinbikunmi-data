@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Akinkunmi 👋
 
-<!--
-**afodunrinbikunmi-data/afodunrinbikunmi-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 I'm a Data Analyst passionate about turning data into insights
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Excel
+- SQL
+- Python
+- Power BI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Focus
+- Building real-world data projects to make good business insights
+- Improving analytical skills
+
+## 📫 Contact
+- Email: afodunrinbikunmi@gmail.com
