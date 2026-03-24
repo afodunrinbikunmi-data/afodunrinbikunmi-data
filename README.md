@@ -1,6 +1,6 @@
 # Hi, I'm Afodunrinbi Samad Akinkunmi 👋
 
-📊 I'm a Data Analyst passionate about turning data into insights
+📊 I'm a Data Analyst passionate about turning data into meaningful and Impactful insights
 
 ## 🔧 Skills
 - Excel
