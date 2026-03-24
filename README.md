@@ -7,6 +7,7 @@
 - SQL
 - Python
 - Power BI
+- Figma
 
 ## 🚀 Current Focus
 - Building real-world data projects to make good business insights
