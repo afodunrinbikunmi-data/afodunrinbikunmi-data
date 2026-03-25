@@ -1,6 +1,6 @@
 # Hi, I'm Afodunrinbi Samad Akinkunmi 👋
 
-📊 # 🚀 About Me
+📊  🚀 **About Me**
 
 I am a **Certified Data Analyst** with a strong passion for transforming raw data into meaningful insights that support informed decision-making. My work focuses on exploring datasets, identifying patterns, and communicating findings in a clear and impactful way.
 
