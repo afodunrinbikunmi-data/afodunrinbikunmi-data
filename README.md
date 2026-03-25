@@ -16,16 +16,22 @@ Beyond data analysis, I am actively expanding towards becoming a Data Scientist,
 
 ## 🛠 Tools & Skills
 ### 📊 Data Analysis
-- Excel (Advanced)  
-- SQL  
-- Python (Pandas, NumPy)  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- Power BI  
+- Excel ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+- SQL ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
+- Python ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- Power BI ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ### 💼 Virtual Assistance
+![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+
 - Email & Calendar Management  
 - Data Entry & Documentation  
 - Internet Research  
 - Communication & Client Support  
 ### 📋 Project Management
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![Asana](https://img.shields.io/badge/Asana-F06A6A?style=for-the-badge&logo=asana&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 - Task Planning & Coordination  
 - Workflow Organization  
 - Time Management  
