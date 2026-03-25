@@ -2,10 +2,10 @@
 
 📊 ## 🚀 About Me
 
-I am a Data Analyst with a strong passion for transforming raw data into meaningful insights that support informed decision-making. My work focuses on exploring datasets, identifying patterns, and communicating findings in a clear and impactful way.
+I am a **Certified Data Analyst** with a strong passion for transforming raw data into meaningful insights that support informed decision-making. My work focuses on exploring datasets, identifying patterns, and communicating findings in a clear and impactful way.
 
 I enjoy approaching problems analytically, breaking them down into structured steps, and uncovering the story behind the data.
-Beyond data analysis, I am actively expanding towards becoming a Data Scientist, with an interest in building predictive modeling and advanced analytics. I am an ALX certified Virtual Assistance and I also have a Microsoft Professional Certificate in Project Management, where I can apply my organizational skills, attention to detail, and ability to manage tasks efficiently. I am committed to continuous learning, building real-world projects, and developing solutions that create value.
+Beyond data analysis, I am actively expanding towards becoming a **Data Scientist**, with an interest in **building predictive modeling and advanced analytics**. I am an **ALX certified Virtual Assistance and I also have a Microsoft Professional Certificate in Project Management**, where I can apply my organizational skills, attention to detail, and ability to manage tasks efficiently. I am committed to continuous learning, building real-world projects, and developing solutions that create value.
 
 ## 🔍 Area of Focus
 - Data Cleaning, Analysis, and Insight Generation  
