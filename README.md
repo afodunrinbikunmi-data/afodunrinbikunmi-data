@@ -18,7 +18,7 @@ Beyond data analysis, I am actively expanding towards becoming a Data Scientist,
 ### 📊 Data Analysis
 - Excel (Advanced)  
 - SQL  
-- Python (Pandas, NumPy)  
+- Python (Pandas, NumPy)  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 - Power BI  
 ### 💼 Virtual Assistance
 - Email & Calendar Management  
