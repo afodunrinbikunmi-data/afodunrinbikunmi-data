@@ -1,6 +1,6 @@
 # Hi, I'm Afodunrinbi Samad Akinkunmi 👋
 
-📊  🚀 **About Me**
+**About Me**
 
 I am a **Certified Data Analyst** with a strong passion for transforming raw data into meaningful insights that support informed decision-making. My work focuses on exploring datasets, identifying patterns, and communicating findings in a clear and impactful way.
 
@@ -12,7 +12,8 @@ Beyond data analysis, I am actively expanding towards becoming a **Data Scientis
 - Data Visualization and Dashboard Development  
 - Administrative Support and Task Management  
 - Project Planning, Coordination, and Execution  
-- Data-Driven Decision Support  
+- Data-Driven Decision Support
+- Predictive Modeling and Machine Learning
 
 ## 🛠 Tools & Skills
 ### 📊 Data Analysis
