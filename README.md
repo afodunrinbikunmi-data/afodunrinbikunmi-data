@@ -47,4 +47,4 @@ Beyond data analysis, I am actively expanding towards becoming a **Data Scientis
 - Supporting productivity through structured systems  
 
 ## 📫 Contact
-[LinkedIn](https://www.linkedin.com/in/akinkunmiafod) | [Medium](https://medium.com/@afodunrinbikunmi) | [Gmail](afodunrinbikunmi@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/akinkunmiafod) | [Medium](https://medium.com/@afodunrinbikunmi) | Gmail: afodunrinbikunmi@gmail.com
