@@ -23,6 +23,9 @@ Beyond data analysis, I am actively expanding towards becoming a **Data Scientis
 - Power BI ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 - Figma ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 - Powerpoint ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+
+### 🤖 Machine Learning - ![Machine Learning(https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the badge&logo=scikit-learn&logoColor=white)
+
 ### 💼 Virtual Assistance
 ![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
