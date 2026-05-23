@@ -25,7 +25,7 @@ Beyond data analysis, I am actively expanding towards becoming a **Data Scientis
 - Powerpoint ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 
 ### 🤖 Machine Learning
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the badge&logo=scikit-learn&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### 💼 Virtual Assistance
 ![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
