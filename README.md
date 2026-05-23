@@ -30,6 +30,7 @@ Beyond data analysis, I am actively expanding towards becoming a **Data Scientis
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+- Building predictive modeling 
 
 
 ### 💼 Virtual Assistance
