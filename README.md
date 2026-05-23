@@ -54,7 +54,8 @@ Beyond data analysis, I am actively expanding towards becoming a **Data Scientis
 - Building dashboards that simplify complex information  
 - Organizing tasks and improving workflow efficiency  
 - Managing projects from planning to execution  
-- Supporting productivity through structured systems  
+- Supporting productivity through structured systems
+- Building intelligent machine learning models and crafting insightful data visualizations
 
 ## 📫 Contact
 [LinkedIn](https://www.linkedin.com/in/akinkunmiafod) | [Medium](https://medium.com/@afodunrinbikunmi) | Gmail: afodunrinbikunmi@gmail.com
