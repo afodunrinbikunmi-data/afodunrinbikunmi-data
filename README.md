@@ -7,7 +7,7 @@ I am a **Certified Data Analyst** with a strong passion for transforming raw dat
 I enjoy approaching problems analytically, breaking them down into structured steps, and uncovering the story behind the data.
 Beyond data analysis, I am actively expanding towards becoming a **Data Scientist**, with an interest in **building predictive modeling and advanced analytics**. In addition, I am an **ALX certified Virtual Assistant and I also have a Microsoft Professional Certificate in Project Management**, where I can apply my organizational skills, attention to detail, and ability to manage tasks efficiently. I am committed to continuous learning, building real-world projects, and developing solutions that create value.
 
-I also pick up complementary skills where they help me deliver better work including building custom front-end interfaces, which I use for personal dashboards and client landing pages
+I also pick up complementary skills where they help me deliver better work including graphic designing and building custom front-end interfaces, which I use for personal dashboards and client landing pages
 
 ## 🔍 Area of Focus
 - Data Cleaning, Analysis, and Insight Generation  
